@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ros/interbotix_ws/devel/setup.sh
